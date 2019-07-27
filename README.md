@@ -1,6 +1,6 @@
 # Analisis de vacantes publicadas en indeed para el mercado de New York
 
-¿Cuáles son las competencias que están solicitando las empresas en el mercado de Nueva York
+¿Cuáles son las competencias que están solicitando las empresas en el mercado de Nueva York?
 
 El presente trabajo tiene como objetivo realizar un webscraping sobre el sitio web de empleo indeed para obtener las vacantes publicadas sobre Data Science en el mercado de New York, luego se realiza un análisis descriptivo y predictivo de la base del paso anterior, para así poder identificar las competencias en el manejo de herramientas que se están solicitando en el mercado.
 
