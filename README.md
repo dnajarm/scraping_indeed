@@ -1,4 +1,4 @@
-# Analisis de vacantes publicadas en indeed para el mercado de New York
+# Analísis de vacantes publicadas en indeed para el mercado de New York
 
 ¿Cuáles son las competencias que están solicitando las empresas en el mercado de Nueva York?
 
@@ -23,7 +23,7 @@ Haga click [aquí](https://colab.research.google.com/drive/1uis686q5rcqX1-xif346
 # Paso 2
 
 # Analísis de las vacantes
-Haga click [aquí](https://colab.research.google.com/drive/1Rmn-rFA0uanooAEZt_5sfPcxSkPG90QW#scrollTo=-Gn04EHEiTwc) para ver analísis de la información obtenida en el paso anterior.
+Haga click [aquí](https://colab.research.google.com/drive/1Rmn-rFA0uanooAEZt_5sfPcxSkPG90QW#scrollTo=-Gn04EHEiTwc) para ver análsis de la información obtenida en el paso anterior.
 
 
 
