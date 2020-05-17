@@ -22,7 +22,7 @@ Haga click [aquí](https://colab.research.google.com/drive/1uis686q5rcqX1-xif346
 
 # Paso 2
 
-# Analísis de las vacantes
+# Análisis de las vacantes
 Haga click [aquí](https://colab.research.google.com/drive/1Rmn-rFA0uanooAEZt_5sfPcxSkPG90QW#scrollTo=-Gn04EHEiTwc) para ver análsis de la información obtenida en el paso anterior.
 
 
